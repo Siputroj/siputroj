@@ -15,7 +15,7 @@ Currently, I'm pursuing my **Master of Science in Computer Science** at Seattle 
 
 ### 🤝 Beyond the Code
 When I'm not at the keyboard, you can find me:
-* Leading a **Connect Group** at [IFGF Seattle]([url](https://www.ifgfseattle.org/)).
+* Leading a **Connect Group** at [IFGF Seattle](https://www.ifgfseattle.org/).
 * **Tutoring English** at Seattle University to help international students feel at home.
 * Mentoring others and focusing on biblical-based personal development through community building.
 
