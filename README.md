@@ -1,17 +1,14 @@
 # Hi there, I'm Jason! 👋
 
-I am a **Child of God** before anything else. Just as Jesus loved the world, I strive to lead with that same heart for others in both my professional and personal life. I am a "people first" developer who believes technology is at its best when it's making life easier for someone else.
+I’m a Computer Science graduate student at **Seattle University** who loves building things that actually help people. Before diving into tech, I studied Biochemistry🧪 at the **University of Washington**, and that background in science still shapes how I solve problems today—I’m always looking for ways to solve complex problems with automation🤖.
 
-Currently, I'm pursuing my **Master of Science in Computer Science** at Seattle University. With a background in **Biochemistry from UW**, I enjoy bridging the gap between complex science and smart automation.
+In my work, I’ve done everything from building medical reporting tools for researchers to implementing genomic data analysis pipeline and designing web applications. Ultimately, my goal is to make life a little easier for the person on the other side of the screen.
 
-### 🛠️ What I'm Building
-* **Full-Stack Dev:** From co-founding **Investalk** (a social-fintech platform for Indonesia) to building digital handover systems.
-* **Automation:** I've built genomic data pipelines that cut runtimes by 50% and created quality control systems for sequencing data.
-* **Impact-Driven:** Whether it's a patient report summary page or a mobile-responsive UI, I build with the end-user in mind.
+✝️ **My faith is at the center of everything I do**; I am a Child of God before anything else. Just as Jesus loved the world, I strive to lead with that same heart for others.
 
 ### 💻 My Toolkit
 * **Languages:** Java, Python, R, C#, JavaScript, HTML/CSS
-* **Frameworks/Tools:** React, ASP.NET MVC, Django, Bootstrap, Supabase, Linux
+* **Frameworks/Tools:** React, React Native, ASP.NET MVC, Django, Bootstrap, Supabase, Linux
 
 ### 🤝 Beyond the Code
 When I'm not at the keyboard, you can find me:
